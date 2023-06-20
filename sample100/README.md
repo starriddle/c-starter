@@ -7,6 +7,10 @@
 系列文章链接如下：
 
 [C语言经典必会程序100例（1-20）](https://mp.weixin.qq.com/s/1j_BlgqPSlz4Cg1fErO66g)
+[C语言经典必会程序100例（21-40）](https://mp.weixin.qq.com/s/FXXIKgYybPoHZg5fN5TaFA)
+[C语言经典必会程序100例（41-60）](https://mp.weixin.qq.com/s/5gJwrrYU6gtkj3eljqqWLw)
+[C语言经典必会程序100例（61-80）](https://mp.weixin.qq.com/s/ierpUqyCj2kYzF56tAYyrw)
+[C语言经典必会程序100例（81-100）](https://mp.weixin.qq.com/s/Icw0wzytEqUxvNIi3uDcKw)
 
 ### 说明
 
