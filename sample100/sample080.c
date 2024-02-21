@@ -16,6 +16,21 @@
 
 int main(int argc, char const *argv[])
 {
-    
+    int x, n = 1, i = 0;
+    while (i < 5)
+    {
+        x = 4 * n;
+        for (i = 0; i < 5; i++)
+        {
+            if (x % 4 != 0)
+            {
+                break;
+            }
+            x = (x/4) * 5 + 1;
+        }
+        n ++;
+    }
+    printf("第5只猴子最少拿走了 %d 个桃子\n", n-1);
+    printf("海滩上原来最少有 %d 个桃子\n", x);
     return 0;
 }
